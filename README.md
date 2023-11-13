@@ -8,23 +8,20 @@ Add a touch of interactivity to your web project with these stylish CSS button h
 - **Customizable:** Customize the button styles to match your design preferences.
 - **Responsive:** The hover effects work seamlessly on various screen sizes and devices.
 
-## Demo
-
-See the [live demo](#) to experience the button hover effects in action.
 
 ## How to Use
 
 1. **Include the Stylesheet:**
    Add the CSS code to your project. You can either link the stylesheet directly or copy and paste the styles into your existing CSS file.
 
-    ```html
+    ```HTML
     <link rel="stylesheet" type="text/css" href="button-hover.css">
     ```
 
 2. **Add HTML Markup:**
    Insert the button element into your HTML with the appropriate classes.
 
-    ```html
+    ```HTML
     <button class="hover-button">Click me</button>
     ```
 
